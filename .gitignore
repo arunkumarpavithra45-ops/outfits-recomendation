@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Large ML model
+outfit_model.joblib
+
+# Optional
+*.pyc
